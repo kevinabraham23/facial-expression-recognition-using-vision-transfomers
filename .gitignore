@@ -13,10 +13,6 @@
 profile_default/
 ipython_config.py
 
-notebooks/Training.ipynb
-notebooks/Face_Crop.ipynb
-notebooks/Evaluation.ipynb
-
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
